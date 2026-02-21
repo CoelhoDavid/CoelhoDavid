@@ -16,7 +16,7 @@ Hoje, busco consolidar minha transição para a área de tecnologia, unindo minh
       alt="Seguidores" 
       src="https://custom-icon-badges.demolab.com/github/followers/CoelhoDavid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
-  <a href="://www.linkedin.com/in/david-coelho-257310179/">
+  <a href="https://www.linkedin.com/in/david-coelho-257310179/">
     <img 
       alt="LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=White"/>
